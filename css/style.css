@@ -1,0 +1,24 @@
+.ios
+{
+    /* padding-left: 20px; */
+}
+
+.web
+{
+    /* padding-right: 10px; */
+}
+
+#middle
+{
+    margin-top: 30px;
+}
+
+#bottom
+{
+    margin-top: 60px;
+}
+.h11
+{
+    font-family: monospace;
+    font-weight: bold;
+}
